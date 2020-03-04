@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/"
+site_prefix = "/M-Wiki/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "lky19961108/site_prefix@gh-pages"
+    "repo": "lky19961108/M-Wiki@gh-pages"
 }
 
 # 站点设置
