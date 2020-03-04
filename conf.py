@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "望月见你"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2020-03-04T19:41+08:00"
 author = "渺落"
 email = "hi@imalan.cn"
 author_homepage = "https://www.imalan.cn"
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "一渺风月",
+        "url": "https://www.aimmiao.com",
+        "brief": "渺落的主页。"
     }
 ]
 nav = [
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/2749645093/",
         "icon": "gi gi-weibo"
     }
 ]
