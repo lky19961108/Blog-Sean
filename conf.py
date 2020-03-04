@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/M-Wiki/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -25,7 +25,7 @@ site_build_date = "2019-12-18T16:51+08:00"
 author = "渺落"
 email = "hi@imalan.cn"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
+description = "我望着月亮，却只看见你。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
